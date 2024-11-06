@@ -1,6 +1,3 @@
-Bien sûr ! Voici le contenu formaté en Markdown pour ton README. Tu peux copier ce texte dans un fichier nommé `README.md`.
-
-```markdown
 # Blagues Linux pour Piéger vos Potes 🤓🐧
 
 Ce projet est un guide pour ajouter des blagues subtiles (et parfois moins subtiles) sur le PC de vos amis sous Linux. Ces astuces sont idéales pour surprendre vos amis, les faire sourire, ou leur faire lever les yeux au ciel (ou tout à la fois). *Disclaimer : Les blagues ne sont drôles que si elles sont réversibles et sans danger !*
@@ -11,8 +8,6 @@ Ce projet est un guide pour ajouter des blagues subtiles (et parfois moins subti
 3. [Messages et animations rigolotes](#messages-et-animations-rigolotes)
 4. [Créer des erreurs imaginaires](#créer-des-erreurs-imaginaires)
 5. [Customiser le terminal](#customiser-le-terminal)
-
----
 
 ### 1. Installer des commandes alternatives
 Certaines commandes peuvent être remplacées par des versions humoristiques ! Voici quelques exemples pour ajouter des petits dérapages bien placés :
@@ -112,8 +107,3 @@ echo 'export PS1="Vous êtes dans le pétrin ➜ "' >> ~/.bashrc
 - **Prévenez vos amis !** Une fois la surprise passée, partagez le rire en leur expliquant les modifications.
 
 Amusez-vous bien et faites-leur croire que leurs terminaux sont devenus incontrôlables… sans abîmer leur système bien sûr !
-```
-
----
-
-Tu peux enregistrer ce code dans un fichier `README.md`, et l'ajouter sur GitHub pour partager ce guide de blagues Linux avec tes amis !
